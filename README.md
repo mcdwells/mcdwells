@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello awesome students! 👋
 
 <!--
 **mcdwells/mcdwells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱I have 45+ years of writing software, on mainframes and PCs. My passion is passing on best practices in screen design, usability, code naming and construct conventions, and correctness.
+- 🔭 I’m currently working on incorporating AI into my coding courses. Let's learn together!
+
