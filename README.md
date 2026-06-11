@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 - 🌱I have 45+ years of writing software, on mainframes and PCs. My passion is passing on best practices in screen design, usability, code naming and construct conventions, and correctness.
 - 🔭 I’m currently working on incorporating AI into my coding courses. Let's learn together!
 
+Programming/markup Languages I have worked with:
+- FORTRAN
+- BASIC
+- ALGOL
+- COBOL
+- VISUAL BASIC
+- VISUAL BASIC .NET
+- HTML
+- CSS
